@@ -58,7 +58,7 @@ header a:hover {
 /* Showcase */
 #showcase {
   min-height: 200px;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   text-align: center;
   color: #000000;
 }
@@ -110,4 +110,18 @@ span {
 span > a:hover {
   color: blue;
   font-weight: bold;
+}
+
+#about {
+  background-color: #ffffff;
+  border-bottom: #f7971c 3px solid;
+}
+
+#sandra {
+  float: left;
+}
+
+#showcase #state {
+  background-color: #e8491d;
+  margin-top: 0px;
 }
