@@ -2,7 +2,7 @@ body {
   font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
 }
 
 /* Global */
@@ -58,7 +58,7 @@ header a:hover {
 /* Showcase */
 #showcase {
   min-height: 200px;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   text-align: center;
   color: #000000;
 }
@@ -110,4 +110,61 @@ span {
 span > a:hover {
   color: blue;
   font-weight: bold;
+}
+
+#about {
+  background-color: #ffffff;
+  border-bottom: #f7971c 3px solid;
+}
+
+#sandra {
+  float: left;
+  width: 60%;
+  border-top: #f7971c 3px solid;
+  margin-left: -50px;
+  border-bottom: #f7971c 3px solid;
+}
+
+aside#sidebar {
+  float: right;
+  width: 30%;
+  margin-right: 90px;
+  margin-top: 10px;
+}
+
+.dark {
+  padding: 15px;
+  background: #f7971c;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: justify; /* For Edge */
+  text-align-last: left;
+}
+
+#showcase #name {
+  float: right;
+  text-align: justify; /* For Edge */
+  text-align-last: left;
+  margin-top: 20px;
+  margin-right: 25px;
+}
+
+#showcase #desc {
+  float: right;
+  text-align: justify; /* For Edge */
+  text-align-last: left;
+  margin-right: 0%;
+  margin-left: 61%;
+  margin-top: -430px;
+}
+
+footer {
+  padding: 20px;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+#foot {
+  border-top: #f7971c 3px solid;
 }
