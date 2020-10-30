@@ -280,6 +280,26 @@ footer {
   color: #000000;
 }
 
+.bruno {
+  float: left;
+  margin-left: 30px;
+  margin-top: 0px;
+  border-top: #f7971c 5px solid;
+}
+
+.bruno2 {
+  float: left;
+  margin-left: 7%;
+  margin-top: 0px;
+  border-top: #f7971c 5px solid;
+}
+
+.container2 {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
 #portfolio {
   margin-top: -10px;
   font-weight: bold;
@@ -291,4 +311,42 @@ footer {
   text-transform: uppercase;
   width: 60px;
   margin-left: 45%;
+}
+
+.laura {
+  float: right;
+  margin-top: -52.8%;
+  border-top: #f7971c 5px solid;
+  margin-right: 30px;
+}
+
+.kibet {
+  float: right;
+  margin-right: 25%;
+  margin-top: -52.8%;
+  border-top: #f7971c 5px solid;
+}
+
+.laura2 {
+  float: left;
+  margin-left: 30px;
+  margin-top: -30%;
+}
+
+.rae {
+  float: left;
+  margin-left: 23%;
+  margin-top: -30%;
+}
+
+.sandy2 {
+  float: right;
+  margin-right: 30px;
+  margin-top: -30%;
+}
+
+.kibet2 {
+  float: right;
+  margin-top: -30%;
+  margin-right: 25%;
 }
