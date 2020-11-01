@@ -31,7 +31,7 @@ header a {
   text-transform: uppercase;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 21px;
+  font-size: 14px;
 }
 
 header li {
@@ -278,4 +278,79 @@ footer {
   font-size: 21px;
   font-weight: bold;
   color: #000000;
+}
+
+.bruno {
+  float: left;
+  margin-left: 30px;
+  margin-top: 0px;
+  border-top: #f7971c 5px solid;
+}
+
+.bruno2 {
+  float: left;
+  margin-left: 7%;
+  margin-top: 0px;
+  border-top: #f7971c 5px solid;
+}
+
+.container2 {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#portfolio {
+  margin-top: -10px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 44px;
+  position: relative;
+  background-color: #f7971c;
+  text-align: center;
+  text-transform: uppercase;
+  width: 60px;
+  margin-left: 45%;
+}
+
+.laura {
+  float: right;
+  margin-top: -48.3%;
+  border-top: #f7971c 5px solid;
+  margin-right: 30px;
+}
+
+.kibet {
+  float: right;
+  margin-right: 25%;
+  margin-top: -48.3%;
+  border-top: #f7971c 5px solid;
+}
+
+.laura2 {
+  float: left;
+  margin-left: 30px;
+  margin-top: -25%;
+}
+
+.rae {
+  float: left;
+  margin-left: 23%;
+  margin-top: -25%;
+}
+
+.sandy2 {
+  float: right;
+  margin-right: 30px;
+  margin-top: -25%;
+}
+
+.kibet2 {
+  float: right;
+  margin-top: -25%;
+  margin-right: 25%;
+}
+
+#forlio {
+  margin-top: -40px;
 }
