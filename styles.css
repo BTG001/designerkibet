@@ -304,7 +304,7 @@ footer {
   margin-top: -10px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 48px;
+  font-size: 44px;
   position: relative;
   background-color: #f7971c;
   text-align: center;
@@ -315,7 +315,7 @@ footer {
 
 .laura {
   float: right;
-  margin-top: -52.8%;
+  margin-top: -48.3%;
   border-top: #f7971c 5px solid;
   margin-right: 30px;
 }
@@ -323,30 +323,34 @@ footer {
 .kibet {
   float: right;
   margin-right: 25%;
-  margin-top: -52.8%;
+  margin-top: -48.3%;
   border-top: #f7971c 5px solid;
 }
 
 .laura2 {
   float: left;
   margin-left: 30px;
-  margin-top: -30%;
+  margin-top: -25%;
 }
 
 .rae {
   float: left;
   margin-left: 23%;
-  margin-top: -30%;
+  margin-top: -25%;
 }
 
 .sandy2 {
   float: right;
   margin-right: 30px;
-  margin-top: -30%;
+  margin-top: -25%;
 }
 
 .kibet2 {
   float: right;
-  margin-top: -30%;
+  margin-top: -25%;
   margin-right: 25%;
+}
+
+#forlio {
+  margin-top: -40px;
 }
