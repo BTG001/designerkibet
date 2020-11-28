@@ -154,7 +154,7 @@ aside#sidebar {
   text-align: justify; /* For Edge */
   text-align-last: left;
   margin-top: 20px;
-  margin-right: 25px;
+  margin-right: 80px;
 }
 
 #showcase #desc {
@@ -162,8 +162,8 @@ aside#sidebar {
   text-align: justify; /* For Edge */
   text-align-last: left;
   margin-right: 0%;
-  margin-left: 61%;
-  margin-top: -430px;
+  margin-left: 65%;
+  margin-top: -600px;
 }
 
 footer {
@@ -295,7 +295,7 @@ footer {
 
 .bruno2 {
   float: left;
-  margin-left: 7%;
+  margin-left: 10%;
   margin-top: 0px;
   border-top: #f7971c 5px solid;
 }
@@ -321,7 +321,7 @@ footer {
 
 .laura {
   float: right;
-  margin-top: -46%;
+  margin-top: -38.8%;
   border-top: #f7971c 5px solid;
   margin-right: 30px;
 }
@@ -329,31 +329,31 @@ footer {
 .kibet {
   float: right;
   margin-right: 25%;
-  margin-top: -46%;
+  margin-top: -38.8%;
   border-top: #f7971c 5px solid;
 }
 
 .laura2 {
   float: left;
   margin-left: 30px;
-  margin-top: -25%;
+  margin-top: -20%;
 }
 
 .rae {
   float: left;
   margin-left: 23%;
-  margin-top: -25%;
+  margin-top: -20%;
 }
 
 .sandy2 {
   float: right;
   margin-right: 30px;
-  margin-top: -25%;
+  margin-top: -20%;
 }
 
 .kibet2 {
   float: right;
-  margin-top: -25%;
+  margin-top: -20%;
   margin-right: 25%;
 }
 
@@ -417,15 +417,15 @@ footer {
 
 .orange {
   float: left;
-  margin-left: -46%;
-  margin-top: 25%;
+  margin-left: -42.5%;
+  margin-top: 21%;
 }
 
 #otext {
   float: left;
   width: 26%;
-  margin-top: 23%;
-  margin-left: -30%;
+  margin-top: 20%;
+  margin-left: -28%;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -435,7 +435,7 @@ footer {
 
 .headwrap {
   float: right;
-  margin-top: -42%;
+  margin-top: -36%;
   margin-left: 45%;
   margin-right: 30px;
 }
@@ -448,7 +448,7 @@ footer {
 
 .green {
   float: right;
-  margin-top: -23.4%;
+  margin-top: -20%;
   margin-right: 30%;
 }
 
@@ -489,7 +489,7 @@ footer {
   width: 26%;
   float: right;
   margin-right: 18%;
-  margin-top: -41%;
+  margin-top: -34%;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -504,7 +504,7 @@ footer {
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
-  margin-top: -21%;
+  margin-top: -18%;
   margin-right: 2%;
   border:  #f7971c 2px solid;
   padding: 5px;
@@ -512,7 +512,7 @@ footer {
 
 .like {
   float: right;
-  margin-top: -5.5%;
+  margin-top: -6.5%;
   margin-right: 25%;
   border:  #f7971c 2px solid;
   padding: 3px;
@@ -521,7 +521,7 @@ footer {
 
 .save {
   float: right;
-  margin-top: -5.5%;
+  margin-top: -6.5%;
   margin-right: 21.5%;
   border:  #f7971c 2px solid;
   padding: 3px;
@@ -530,7 +530,7 @@ footer {
 
 .like-content {
   float: right;
-  margin-top: -31.5%;
+  margin-top: -26%;
   margin-right: 21.5%;
   border:  #f7971c 2px solid;
   padding: 3px;
@@ -538,7 +538,7 @@ footer {
 
 .save-content {
   float: right;
-  margin-top: -31.5%;
+  margin-top: -26%;
   margin-right: 18%;
   border:  #f7971c 2px solid;
   padding: 3px;
@@ -552,56 +552,56 @@ footer {
 
 #br {
   float: left;
-  margin-top: 18%;
-  margin-left: -11%;
+  margin-top: 16%;
+  margin-left: -10%;
 }
 
 #wahiu {
   float: left;
-  margin-top: 18%;
-  margin-left: -11%;
+  margin-top: 16%;
+  margin-left: -9%;
 }
 
 #lau {
   float: right;
-  margin-top: -28%;
+  margin-top: -23.5%;
   margin-right: 5%;
 }
 
 #kib {
   float: right;
-  margin-top: -28%;
+  margin-top: -23.5%;
   margin-right: 28%;
 }
 
 #lau2 {
   float: left;
-  margin-top: -7%;
+  margin-top: -5%;
   margin-left: 4%;
 }
 
 #rao {
   float: left;
   margin-left: 25%;
-  margin-top: -7%;
+  margin-top: -5%;
 }
 
 #sand {
   float: right;
-  margin-top: -7%;
+  margin-top: -5%;
   margin-right: 28%;
 }
 
 #sand2 {
   float: right;
-  margin-top: -7%;
+  margin-top: -5%;
   margin-right: 5%;
 }
 
 .like-p {
   float: left;
   margin-left: -9.2%;
-  margin-top: 17.5%;
+  margin-top: 13.5%;
   border:  #f7971c 2px solid;
   padding: 3px;
 }
@@ -609,15 +609,15 @@ footer {
 .save-p {
   float: left;
   margin-left: -5%;
-  margin-top: 17.5%;
+  margin-top: 13.5%;
   border:  #f7971c 2px solid;
   padding: 3px;
 }
 
 .like-o {
   float: left;
-  margin-left: -30%;
-  margin-top: 38.2%;
+  margin-left: -28%;
+  margin-top: 32%;
   border:  #f7971c 2px solid;
   padding-right: 3px;
   padding-left: 3px;
@@ -625,8 +625,8 @@ footer {
 
 .save-o {
   float: left;
-  margin-left: -25.8%;
-  margin-top: 38.2%;
+  margin-left: -22.8%;
+  margin-top: 32%;
   border:  #f7971c 2px solid;
   padding-right: 3px;
   padding-left: 3px;
