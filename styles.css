@@ -362,7 +362,7 @@ footer {
 }
 
 #inspo {
-  margin-top: -41.2%;
+  margin-top: 0%;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -377,9 +377,15 @@ footer {
 #ptext {
   float: left;
   width: 26%;
-  margin-left: 30px;
+  margin-left: 3%;
   padding-top: 5%;
   margin-right: 20px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border:  #f7971c 2px solid;
+  padding: 5px;
+  margin-top: 2%;
 }
 
 .dark2 {
@@ -405,20 +411,26 @@ footer {
 
 .monochrome {
   float: left;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 2%;
 }
 
 .orange {
   float: left;
   margin-left: -46%;
-  margin-top: 26%;
+  margin-top: 25%;
 }
 
 #otext {
+  float: left;
   width: 26%;
-  margin-left: 10%;
-  margin-left: 20%;
+  margin-top: 23%;
+  margin-left: -30%;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border:  #f7971c 2px solid;
+  padding: 5px;
 }
 
 .headwrap {
@@ -584,4 +596,38 @@ footer {
   float: right;
   margin-top: -7%;
   margin-right: 5%;
+}
+
+.like-p {
+  float: left;
+  margin-left: -9.2%;
+  margin-top: 17.5%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+}
+
+.save-p {
+  float: left;
+  margin-left: -5%;
+  margin-top: 17.5%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+}
+
+.like-o {
+  float: left;
+  margin-left: -30%;
+  margin-top: 38.2%;
+  border:  #f7971c 2px solid;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.save-o {
+  float: left;
+  margin-left: -25.8%;
+  margin-top: 38.2%;
+  border:  #f7971c 2px solid;
+  padding-right: 3px;
+  padding-left: 3px;
 }
