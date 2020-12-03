@@ -321,7 +321,7 @@ footer {
 
 .laura {
   float: right;
-  margin-top: -48.3%;
+  margin-top: -46%;
   border-top: #f7971c 5px solid;
   margin-right: 30px;
 }
@@ -329,7 +329,7 @@ footer {
 .kibet {
   float: right;
   margin-right: 25%;
-  margin-top: -48.3%;
+  margin-top: -46%;
   border-top: #f7971c 5px solid;
 }
 
@@ -362,7 +362,7 @@ footer {
 }
 
 #inspo {
-  margin-top: -43.2%;
+  margin-top: -41.2%;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -412,7 +412,7 @@ footer {
 .orange {
   float: left;
   margin-left: -46%;
-  margin-top: 27%;
+  margin-top: 26%;
 }
 
 #otext {
@@ -423,7 +423,7 @@ footer {
 
 .headwrap {
   float: right;
-  margin-top: -45%;
+  margin-top: -42%;
   margin-left: 45%;
   margin-right: 30px;
 }
@@ -436,8 +436,8 @@ footer {
 
 .green {
   float: right;
-  margin-top: -25%;
-  margin-right: 28%;
+  margin-top: -23.4%;
+  margin-right: 30%;
 }
 
 #turtleneck {
@@ -461,7 +461,127 @@ footer {
   margin-left: 40%;
 }
 
-#previous {
+#previous2 {
   border: #f7971c 2px solid;
   padding: 5px;
+  float: left;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  font-weight: bold;
+  color: #000000;
+}
+
+#content {
+  width: 26%;
+  float: right;
+  margin-right: 18%;
+  margin-top: -41%;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border:  #f7971c 2px solid;
+  padding: 5px;
+  padding-left: 2px;
+}
+
+#turtle {
+  width: 26%;
+  float: right;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin-top: -21%;
+  margin-right: 2%;
+  border:  #f7971c 2px solid;
+  padding: 5px;
+}
+
+.like {
+  float: right;
+  margin-top: -5.5%;
+  margin-right: 25%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+  padding-bottom: 0px;
+}
+
+.save {
+  float: right;
+  margin-top: -5.5%;
+  margin-right: 21.5%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+  padding-bottom: 0px;
+}
+
+.like-content {
+  float: right;
+  margin-top: -31.5%;
+  margin-right: 21.5%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+}
+
+.save-content {
+  float: right;
+  margin-top: -31.5%;
+  margin-right: 18%;
+  border:  #f7971c 2px solid;
+  padding: 3px;
+}
+
+.model {
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+#br {
+  float: left;
+  margin-top: 18%;
+  margin-left: -11%;
+}
+
+#wahiu {
+  float: left;
+  margin-top: 18%;
+  margin-left: -11%;
+}
+
+#lau {
+  float: right;
+  margin-top: -28%;
+  margin-right: 5%;
+}
+
+#kib {
+  float: right;
+  margin-top: -28%;
+  margin-right: 28%;
+}
+
+#lau2 {
+  float: left;
+  margin-top: -7%;
+  margin-left: 4%;
+}
+
+#rao {
+  float: left;
+  margin-left: 25%;
+  margin-top: -7%;
+}
+
+#sand {
+  float: right;
+  margin-top: -7%;
+  margin-right: 28%;
+}
+
+#sand2 {
+  float: right;
+  margin-top: -7%;
+  margin-right: 5%;
 }
